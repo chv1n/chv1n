@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natapong Thongkom (Chain)
 =================================================================================================================================================
 
-I'm a Computer Engineering student who is dedicated and passionate about software development, with a strong foundation in programming and problem-solving skills. I am always eager to learn new things, especially in the field of software development. My goal is to continue developing my skills through internships, projects, and collaboration with professionals in order to pursue a career as a software engineer and beyond. 💻⚙️
+I'm a Computer Engineering student who is dedicated and passionate about software development, with a strong foundation in programming and problem-solving skills. I'm always eager to learn new things, especially in the field of software development. My goal is to continue developing my skills through internships, projects, and collaboration with professionals in order to pursue a career as a software engineer and beyond. 💻⚙️
 
-* ✉️  You can contact me at [cendozoden@gmail.com](mailto:cendozoden@gmail.com) 
+* ✉️  You can contact me at [cendozoden@gmail.com](mailto:cendozoden@gmail.com)
 
 ### Skills & Tools
 

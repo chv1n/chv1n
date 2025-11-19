@@ -53,14 +53,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chv1n&radius=50&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chv1n/chv1n/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chv1n/chv1n/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chv1n/chv1n/output/pacman-contribution-graph.svg">
-</picture>
-
-###

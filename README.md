@@ -1,11 +1,12 @@
-<h2 align="left">Welcome to my space!👋</h2>
+<h2 align="left">Hi!👋</h2>
 
 ###
-
-<p align="left">Hi! I'm a computer engineering student who loves coding and problem-solving. I'm always eager to learn new technology and enjoy growing my skills through projects and collaboration. My goal is to keep developing as a software engineer. 💻⚙️</p>
+### 👨‍💻 About Me
+* 💻 I’m a recent **Computer Engineering graduate** with a strong interest in **Software Engineering**.
+* ☁️ Currently, I'm actively studying and diving deep into **Cloud Infrastructure** and **DevOps practices**.
 
 ###
-
+### 🛠️ Tech Stack & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
@@ -38,14 +39,18 @@
 
 ###
 
+### 🎖️ Certifications
+
 <div align="left">
-  <a href="www.linkedin.com/in/natapong-t" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="cendozoden@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" height="60" align="middle" />
+  <a href="https://www.credly.com/badges/c22b1fb3-61ca-41ad-98a6-1ba38863c484">
+    <strong>AWS Certified Cloud Practitioner</strong>
   </a>
 </div>
+
+### 📞 Contact
+**Email:** natapong.thongkom.work@gmail.com  
+**Linkedin:** www.linkedin.com/in/natapong-t/
 
 ###
 
